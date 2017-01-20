@@ -1,6 +1,6 @@
 # Common Interview Questions
 
-The following cource code files implement several common interview questions.  It's only updated when I have some spare time to work out the puzzles.  If you're a former student, not under an NDA, and would like to pass on interview questions you were asked, send me an email and I'll implement them.
+The following source code files implement several common interview questions.  It's only updated when I have some spare time to work on the puzzles.  If you're a former student, not under an NDA, and would like to pass on interview questions you were asked, send me an email and I'll implement them.
 
 - [fizzbuzz.c][01]: Implements FizzBuzz in C
 - [fizzbuzz.py][02]: Implements FizzBuzz in python
