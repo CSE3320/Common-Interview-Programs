@@ -1,8 +1,8 @@
 # Common Interview Questions
 
-The following source code files implement several common interview questions.  It's only updated when I have some spare time to work on the puzzles or when I shuld be doing something else, like mowing the lawn.  If you're a former student, not under an NDA, and would like to pass on interview questions you were asked, send me an email and I'll implement them.
+The following source code files implement several common interview questions.  It's only updated when I have some spare time to work on the puzzles or when I should be doing something else, like mowing the lawn.  If you're a former student, not under an NDA, and would like to pass on interview questions you were asked, send me an email and I'll implement them.
 
-- [endien.c][05]: Determine if your mahcine is big or little endien in C
+- [endien.c][05]: Determine if your machine is big or little endien in C
 - [fibonacci.c][06]: Implements fibonacci recursively and iteratively in C
 - [fibonacci.py][07]: Implements fibonacci recursively and iteratively in python 
 - [fizzbuzz.c][01]: Implements FizzBuzz in C
