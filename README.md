@@ -9,8 +9,8 @@ The following source code files implement several common interview questions.  I
 - [string.py][04]: Implements some common string manipulations questions in python
 
 
-[01]: https://github.com/bakkertj/cse3320/blob/master/Common%20Interview/fizzbuzz.c 
-[02]: https://github.com/bakkertj/cse3320/blob/master/Common%20Interview/fizzbuzz.py 
-[03]: https://github.com/bakkertj/cse3320/blob/master/Common%20Interview/string.c 
-[04]: https://github.com/bakkertj/cse3320/blob/master/Common%20Interview/string.py 
-[05]: https://github.com/bakkertj/cse3320/blob/master/Common%20Interview/endien.c
+[01]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fizzbuzz.c 
+[02]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fizzbuzz.py 
+[03]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/string.c 
+[04]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/string.py 
+[05]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/endien.c
