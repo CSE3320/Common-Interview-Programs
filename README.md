@@ -9,6 +9,7 @@ The following source code files implement several common interview questions.  I
 - [fizzbuzz.py][02]: Implements FizzBuzz in python
 - [string.c][03]: Implements some common string manipulations questions in C
 - [string.py][04]: Implements some common string manipulations questions in python
+- [unique_characters.c][08]: Determine if all characters in a string are unique, with and without a data structure 
 
 
 [01]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fizzbuzz.c 
@@ -18,3 +19,4 @@ The following source code files implement several common interview questions.  I
 [05]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/endien.c
 [06]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fibonacci.c
 [07]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fibonacci.py
+[08]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/unique_characters.c
