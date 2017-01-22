@@ -7,7 +7,8 @@ The following source code files implement several common interview questions.  I
 - [fibonacci.py][07]: Implements fibonacci recursively and iteratively in python 
 - [fizzbuzz.c][01]: Implements FizzBuzz in C
 - [fizzbuzz.py][02]: Implements FizzBuzz in python
-- [permute.c][09]: Print all permutations of a string 
+- [permute.c][09]: Print all permutations of a string in C
+- [permute.py][10]: Print all permutations of a string in python
 - [string.c][03]: Implements some common string manipulations questions in C
 - [string.py][04]: Implements some common string manipulations questions in python
 - [unique_characters.c][08]: Determine if all characters in a string are unique, with and without a data structure 
@@ -22,3 +23,4 @@ The following source code files implement several common interview questions.  I
 [07]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fibonacci.py
 [08]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/unique_characters.c
 [09]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/permute.c
+[10]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/permute.py
