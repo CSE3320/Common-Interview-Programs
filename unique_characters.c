@@ -26,6 +26,8 @@
 // Purpose: Given a string, determine if all of its characters are unique
 //          Let's assume it's ASCII so that's 128 characters 
 //          Part 2: Do it without a data structure. Assume all lowercase 
+//          because I want to fit it into 32 bits because bit shifting is fun
+//          A 64 bit int could be used, so go and make that change for fun
 
 #define NUM_ASCII 128
 
