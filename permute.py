@@ -1,3 +1,4 @@
+
 # The MIT License (MIT)
 #
 # Copyright (c) 2017 Trevor Bakker
@@ -20,6 +21,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 
+#!/usr/bin/python
 # Purpose: print all permutations of a stringing.  A very C-like python implementation
 
 def swap( string, left, right ):
