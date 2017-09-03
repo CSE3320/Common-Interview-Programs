@@ -13,6 +13,7 @@ The following source code files implement several common interview questions.  I
 - [string.py][04]: Implements some common string manipulations questions in python
 - [unique_characters.c][08]: Determine if all characters in a string are unique, with and without a data structure 
 - [valid_paren.c++][09]: Given a string, determine if all the parens and brackets match
+- [anagrams.cpp][10]: Given a data file of string pairs in a datafile[11]. Determine if the strings are anagrams.   
 
 
 [01]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/fizzbuzz.c 
@@ -25,4 +26,5 @@ The following source code files implement several common interview questions.  I
 [08]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/unique_characters.c
 [09]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/permute.c
 [10]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/permute.py
-[10]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/valid_paren.c++
+[11]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/anagrams.cpp
+[12]: https://github.com/CSE3320/Common-Interview-Programs/blob/master/anagram-input.txt
